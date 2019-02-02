@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2019-02-02 04:41:36
 ---
-<img src="http://elijah.gazerbeam.com/wp-content/uploads/2019/02/null-1.png" width="624" height="468" alt="" title="">
-
 The strangest thing about babies is that they are never the right size. During the first couple of months of pregnancy, you can hardly tell that they're there. Then, slowly the mother's stomach begins growing.
 
 After 9 months, the whole challenge of childbirth is to push a baby out an opening that starts out smaller than its head. But, once they're out newborns are incredibly small and delicate.
