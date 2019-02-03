@@ -1,6 +1,6 @@
 ---
 ID: 118
-post_title: 'The Mouse and the Motorcycle &#8211; Chapter 3'
+post_title: 'The Mouse and the Motorcycle &#8211; Chapter Three'
 author: ng23055
 post_excerpt: ""
 layout: post
