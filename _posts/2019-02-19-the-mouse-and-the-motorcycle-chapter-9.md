@@ -1,6 +1,8 @@
 ---
 ID: 175
-post_title: The Mouse and the Motorcycle, Chapter 9
+post_title: >
+  The Mouse and the Motorcycle, Chapter
+  Nine
 author: ng23055
 post_excerpt: ""
 layout: post
