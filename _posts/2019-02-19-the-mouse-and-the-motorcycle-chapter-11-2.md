@@ -1,6 +1,8 @@
 ---
 ID: 172
-post_title: The Mouse and the Motorcycle, Chapter 11
+post_title: >
+  The Mouse and the Motorcycle, Chapter
+  Eleven
 author: ng23055
 post_excerpt: ""
 layout: post
